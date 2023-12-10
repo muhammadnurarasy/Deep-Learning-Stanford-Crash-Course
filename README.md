@@ -1,1 +1,1 @@
-stanford and deeplearning crash course
+## Stanford and DeepLearning Crash Course
